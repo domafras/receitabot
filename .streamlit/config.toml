@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#EBEC05" # Cor principal (elementos interativos como botões)
+backgroundColor = "#000000" # Cor de fundo da página
+secondaryBackgroundColor = "#11979E" # Fundo secundário (widget e containers)
+textColor = "#FFFFFF" # Cor do texto principal
+font = "sans serif" # Fonte utilizada
